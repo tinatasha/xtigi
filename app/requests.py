@@ -38,7 +38,7 @@ def get_sources(category):
 
 def process_sources(sources_list):
 	'''
-	Function that processes the news sources results and turns them into a list of objects
+	Function that processes news sources results and turns them into a list of objects
 	Args:
 		sources_list: A list of dictionaries that contain sources details
 	Returns:
@@ -64,7 +64,7 @@ def process_sources(sources_list):
 
 def get_articles(id):
 	'''
-	Function that processes the articles and returns a list of articles objects
+	Function that processes articles and returns articles objects
 	'''
 	get_articles_url = articles_url.format(id,api_key)
 
