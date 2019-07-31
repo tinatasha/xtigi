@@ -30,6 +30,7 @@ https://xtigi.herokuapp.com/
 Contact me tashambiti@gmail.com
 
 ## License
+None yet
 
 MIT License
 
