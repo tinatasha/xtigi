@@ -4,7 +4,7 @@ A Flask project that retrieves the news from an RSS feed and displays it to the 
 
 ## Link To Live Website:
 
-https://tastyheroku.herokuapp.com/
+https://xtigi.herokuapp.com/
 
 ## Created by:
 
