@@ -34,4 +34,4 @@ None yet
 
 MIT License
 
-Copyright (c) 2019 tinatash
+Copyright (c) 2019 tinatasha
