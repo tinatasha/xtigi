@@ -25,8 +25,6 @@ https://xtigi.herokuapp.com/
     
 ## Known Bugs
 
-None yet.
-
 ## Support and contact details
 
 Contact me tashambiti@gmail.com
